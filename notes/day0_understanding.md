@@ -1,0 +1,3 @@
+**Machine learning is a system that gradually learns how to make useful predictions from large amounts of data to discover patterns and correlations.**
+**Machine learning (ML) is a type of artificial intelligence (AI) that lets computers learn from data to find patterns and make decisions or predictions without being explicitly programmed for every task.**
+**For example, ML can detect weather patterns. With traditional methods, programmers often use hard-coded rules and extensive mathematical modeling. Machine learning learns from data and can make predictions that are often much better than traditional methods.**

@@ -4,3 +4,10 @@
 
 ## Features
 **Analyze gym data to predict member churn and forecast revenue using machine learning, with results displayed in a web-based dashboard.**
+
+## Next Steps
+- Design data schema
+- Exploratory analysis
+- Build churn prediction model
+- Build revenue forecasting
+- Dashboard integration
